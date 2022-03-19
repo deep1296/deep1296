@@ -9,7 +9,7 @@
 
 <h3 align="left">Interests:</h3>
 
-- Front end Developent
+- Front end Development
 - Data Structures And Algorithms 💻
 - React & Redux 
 
@@ -110,8 +110,7 @@
     </a>
 <br><br>
   
-
-
+<br><br>
 
 ## Have a Smiley Day...😃 :<br>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
