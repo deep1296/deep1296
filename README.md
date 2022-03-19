@@ -24,7 +24,6 @@
 ## **Tech Toolbox🧰**<br>
 
 <p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -85,10 +84,8 @@
 ## &#x1f4c8; My GitHub Stats🎯
  
   
-<details><summary>Contribution Graph</summary>
 <p align="left">
 <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=deep1296&theme=chartreuse-dark&no-frame=true" /></p>
-</details>
 
   
 
