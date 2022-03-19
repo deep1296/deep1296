@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Dipak<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 align="center">AI Enthusiast, Open-source Contributor and Life-Long Learner</h3>
+<h3 align="center">An Enthusiast, Passionate aspiring Full Stack Developer skilled in MERN stack and a Life-Long Learner</h3>
 
 <br>
 
@@ -12,6 +12,10 @@
 - Front end Development
 - Data Structures And Algorithms 💻
 - React & Redux 
+
+<h3 align="left">Portfolio:</h3>
+
+- https://dipak-tange.netlify.app/
 
 <h3 align="left">Languages:</h3>
 
