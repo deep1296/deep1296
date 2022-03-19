@@ -15,7 +15,7 @@
 
 <h3 align="left">Portfolio:</h3>
 
-- https://dipak-tange.netlify.app/
+- [@deep_tange](https://dipak-tange.netlify.app/)
 
 <h3 align="left">Languages:</h3>
 
