@@ -15,7 +15,7 @@
 
 <h3 align="left">Portfolio:</h3>
 
-- [@Dipak_tange](https://deep-1296.netlify.app/)
+- [@Dipak_tange](https://deep-1296.vercel.app/)
 
 <h3 align="left">Languages:</h3>
 
@@ -36,7 +36,7 @@
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-   <a href="https://deep-1296.netlify.app/" target="blank" >
+   <a href="https://deep-1296.vercel.app/" target="blank" >
   <img align="center" src="https://www.portfoler.com/assets/images/icons/etap-authentication.svg" alt="Dipak_Tange" height="30" width="40" />
   </a>
 <a href="https://twitter.com/deepTange" target="blank" >
