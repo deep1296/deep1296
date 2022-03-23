@@ -25,6 +25,33 @@
 
 <br><br>
 
+<h2 align="center"> 📫 How to reach me </h2>
+ <p align="center">
+    <a target="_blank" href="mailto:deeptange@gmail.com"><img src="https://img.shields.io/badge/deeptange@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  </p>
+
+<h2 align="center"> 📄 Know about my experiences</h2>
+
+- Click here for my [Resume](https://drive.google.com/file/d/1atTT_DBAik6fJZPNyAOK9UmezgTudDPk/view?usp=sharing")
+
+<h2 align="center">Connect with me:</h2>
+<p align="center">
+   <a href="https://deep-1296.netlify.app/" target="blank" >
+  <img align="center" src="https://www.portfoler.com/assets/images/icons/etap-authentication.svg" alt="Dipak_Tange" height="30" width="40" />
+  </a>
+<a href="https://twitter.com/deepTange" target="blank" >
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Deep_tange" height="30" width="40" />
+  </a>
+<a href="https://www.linkedin.com/in/dipak-tange-279b05126/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dipak_tange" height="30" width="40" />
+  </a>
+   <a href="https://www.instagram.com/deep_prakash_tange/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deep_prakash_tange" height="30" width="40" />
+  </a>
+</p>
+
+
+<br><br>
 ## **Tech Toolbox🧰**<br>
 
 <p align='center'>
@@ -100,16 +127,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deep1296&show_icons=true&&theme=chartreuse-dark&count_private=true&include_all_commits=true" alt="deep1296" /></p>
 
 <br>
-<img src ="https://static.wixstatic.com/media/520c8c_e6ddf6b7c2a841ae90cb2bfcf4355ff5~mv2.gif" align = "left" width = 40% height =200px>
+
 <div>
-<h2  > Connect with me</h2>
-  
-[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dipak-tange-279b05126/)
-<br><br>
-  <a href="https://medium.com/@deeptange" target="_blank">
-      <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
-    </a>
-<br><br>
+
   
 <br><br>
 
