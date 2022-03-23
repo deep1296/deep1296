@@ -52,8 +52,8 @@
 
 
 <br><br>
-<h3 align="center">Tech Toolbox 🧰</h3>
-<br>
+<h2 align="center">Tech Toolbox 🧰</h2><br>
+
 
 <p align='center'>
 
