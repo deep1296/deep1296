@@ -115,9 +115,6 @@
   
 ## &#x1f4c8; My GitHub Stats🎯
  
-  
-<p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=deep1296&theme=chartreuse-dark&no-frame=true" /></p>
 
   
 
