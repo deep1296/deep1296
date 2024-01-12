@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Dipak<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h4>Hi there! I'm a MERN developer with over 1 year of experience. Currently, I'm working at Masai School, where I've been able to put my skills to the test and grow as a developer. I graduated from Masai School's MERN bootcamp in August 2022, where I was exposed to the latest technologies and best practices in web development, data structures and algorithms, and design principles. </h4>
+<h4>Hi there! I'm a MERN developer with over 1 year of experience. Currently, I'm working at Masai School, where I've been able to put my skills to the test and grow as a developer. I graduated from Masai School's MERN bootcamp in October 2022, where I was exposed to the latest technologies and best practices in web development, data structures and algorithms, and design principles. </h4>
  
 <br />
 
