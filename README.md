@@ -1,134 +1,33 @@
 <h1 align="center">Hey there, I'm Dipak<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 align="center">An Enthusiast, Passionate aspiring Full Stack Developer skilled in MERN stack and a Life-Long Learner</h3>
-
-<br>
-
-
-<img width="40%" align="right" alt="Github Header" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-<h3 align="left">Interests:</h3>
-
-- Front end Development
-- Data Structures And Algorithms 💻
-- React & Redux 
-
-<h3 align="left">Portfolio:</h3>
-
-- [@Dipak_tange](https://deep-1296.vercel.app/)
-
-<h3 align="left">Languages:</h3>
-
-- English 🔤
-- Marathi
-- Hindi
-
-<br><br>
-
-<h2 align="center"> 📫 How to reach me </h2>
- <p align="center">
-    <a target="_blank" href="mailto:deeptange@gmail.com"><img src="https://img.shields.io/badge/deeptange@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  </p>
-
-<h2 align="center"> 📄 Know about my experiences</h2>
-
-- Click here for my [Resume](https://drive.google.com/file/d/1atTT_DBAik6fJZPNyAOK9UmezgTudDPk/view?usp=sharing")
-
-<h2 align="center">Connect with me:</h2>
-<p align="center">
-   <a href="https://deep-1296.vercel.app/" target="blank" >
-  <img align="center" src="https://www.portfoler.com/assets/images/icons/etap-authentication.svg" alt="Dipak_Tange" height="30" width="40" />
-  </a>
-<a href="https://twitter.com/deepTange" target="blank" >
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Deep_tange" height="30" width="40" />
-  </a>
-<a href="https://www.linkedin.com/in/dipak-tange-279b05126/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dipak_tange" height="30" width="40" />
-  </a>
-   <a href="https://www.instagram.com/deep_prakash_tange/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deep_prakash_tange" height="30" width="40" />
-  </a>
-</p>
-
-
-<br><br>
-<h2 align="center">Tech Toolbox 🧰</h2><br>
-
-
-<p align='center'>
-
-<h3 align="center">Languages</h3>
-<p align="center">
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
-      alt="javascript"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-      alt="html5"/> 
-  </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-      alt="css3"/>
-  </a>
-</p>
-<h3 align="center">Frontend</h3>
-<p align="center">
-     
-  <a href="https://babeljs.io/" target="_blank">
-    <img src="https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black" alt="babel"/> 
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
-      alt="react"/> 
-  </a>
-  <a href="https://redux.js.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
-  </a> 
-  <a href="https://webpack.js.org" target="_blank">
-    <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
-      alt="webpack"/>
-  </a>
-</p>
-  
-  <h3 align="center">Backend</h3>
-<p align="center">
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
-      alt="nodejs"/> 
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
-      alt="express" />
-</p>
-<h3 align="center">Database</h3>
-<p align="center">
-  <a href="https://redis.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
-      alt="redis"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-      alt="mongodb"/> 
-  </a> 
-</p>
-
-  
-## &#x1f4c8; My GitHub Stats🎯
+<h4>Hi there! I'm a MERN developer with over 1 year of experience. Currently, I'm working at Masai School, where I've been able to put my skills to the test and grow as a developer. I graduated from Masai School's MERN bootcamp in August 2022, where I was exposed to the latest technologies and best practices in web development, data structures and algorithms, and design principles. </h4>
  
+<br />
 
-  
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=deep1296&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=deep1296&theme=chartreuse-dark" />
-</p>  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deep1296&show_icons=true&&theme=chartreuse-dark&count_private=true&include_all_commits=true" alt="deep1296" /></p>
+## 👨🏻‍💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
 
-<br>
 
-<div>
+<br />
 
-  
+
+## 📩 Contact Me 👇
+
+<a href="mailto:deeptange@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/dipak-tange-279b05126/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+</a>
+<a href="https://twitter.com/DeepTange" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#0099ff" fill-opacity="1" d="M0,192L48,176C96,160,192,128,288,112C384,96,480,96,576,117.3C672,139,768,181,864,181.3C960,181,1056,139,1152,117.3C1248,96,1344,96,1392,96L1440,96L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
+
 <br><br>
 
 ## Have a Smiley Day...😃 :<br>
